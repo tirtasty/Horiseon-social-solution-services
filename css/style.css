@@ -198,3 +198,22 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+@media screen and (max-width:1024px){
+    .header div ul{
+        position: absolute;
+        right: 0px;
+        height: 50vh;
+        top: 10vh;
+        background-color: #2a607c;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        width: 40%;
+        justify-content: space-evenly;
+        letter-spacing: 1px;
+    }
+    .float-left, .float-right{
+        display: none;
+    }
+    
+}
