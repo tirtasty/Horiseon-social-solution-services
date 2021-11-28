@@ -167,6 +167,7 @@ p {
 
 .online-reputation-management img {
     max-height: 200px;
+
 }
 
 .social-media-marketing img {
@@ -199,16 +200,21 @@ p {
     font-size: 20px;
 }
 @media screen and (max-width:1024px){
+    .header h1{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
     .header div ul{
         position: absolute;
         right: 0px;
-        height: 50vh;
-        top: 5vh;
+        height: 8vh;
+        top:auto;
         background-color: #2a607c;
         display: flex;
         align-items: center;
-        flex-direction: column;
-        width: 40%;
+        flex-direction: row;
+        width: 100%;
         justify-content: space-evenly;
         letter-spacing: 1px;
     }
