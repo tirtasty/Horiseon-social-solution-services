@@ -35,7 +35,7 @@ https://github.com/tirtasty/Horiseon-social-solution-services.git
 On the homepage of the website there are 3(three) button or navigation link which will be 
 leading you to the contain of it.
 
-![The Horiseon webpage's navigation bar.](./images/header or nav link.PNG")
+![The Horiseon webpage's navigation bar.](./images/header-nav link.png")
 
 ---
 ## Contributors
