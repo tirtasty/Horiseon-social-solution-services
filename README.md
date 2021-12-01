@@ -32,13 +32,25 @@ https://github.com/tirtasty/Horiseon-social-solution-services.git
 
 ## Usage
 
-On the homepage of the website there are 3(three) button or navigation link which will be 
+** On the homepage of the website there are 3(three) button or navigation link which will be 
 leading you to the contain of it.
 
-![The Horiseon webpage's navigation bar.](./images/header-nav link.png")
+![The Horiseon webpage's navigation bar.](./images/header-nav-link.PNG)
+
+** If you click "Search Engine Optimization" Navigation Button will lead you to this page
+
+![Search Engine Optimization.](./images/Search-engine-optimization-web.PNG)
+
+** If you click "Online Reputation Management" Navigation Button will lead you to this page
+
+![Search Engine Optimization.](./images/social-media-marketing-web.PNG)
+
+** The whole page will be look like this if you keep scrolling around
+![Whole page of Horiseon Social Solution Services](./images/webpage.PNG)
+
 
 ---
-## Contributors
+## Contributor
 
 - Tirta Styadi <tirta.setiady@yahoo.com>
 
