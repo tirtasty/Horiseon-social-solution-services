@@ -43,7 +43,7 @@ leading you to the contain of it.
 
 ** If you click "Online Reputation Management" Navigation Button will lead you to this page
 
-![Online Reputation Management.](./images/Online-reputation-management-web.PNG)
+![Online Reputation Management.](./images/Online-reputation-Management-web.PNG)
 
 ** If you click "Social Media Marketing" Navigation Button will lead you to this 
 page
