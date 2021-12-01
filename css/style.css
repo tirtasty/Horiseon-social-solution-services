@@ -120,28 +120,3 @@ p {
     float: right;
     margin-left: 25px;
 }
-
-@media screen and (max-width:1024px){
-    header h1{
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
-    header nav ul{
-        position: absolute;
-        right: 0px;
-        height: 8vh;
-        top:auto;
-        background-color: #2a607c;
-        display: flex;
-        align-items: center;
-        flex-direction: row;
-        width: 100%;
-        justify-content: space-evenly;
-        letter-spacing: 1px;
-    }
-    .float-left, .float-right{
-        display: none;
-    }
-    
-}
