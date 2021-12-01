@@ -51,6 +51,7 @@ page
 ![Social Media Marketing](./images/social-media-marketing-web.PNG)
 
 ** The whole page will be look like this if you keep scrolling around
+
 ![Whole page of Horiseon Social Solution Services](./images/webpage.PNG)
 
 
@@ -58,7 +59,7 @@ page
 ---
 ## Contributors
 
-- Tirta Styadi <tirta.setiady@yahoo.com>
+- Tirta Styadi - <tirta.setiady@yahoo.com>
 
 ---
 
