@@ -43,14 +43,20 @@ leading you to the contain of it.
 
 ** If you click "Online Reputation Management" Navigation Button will lead you to this page
 
-![Search Engine Optimization.](./images/social-media-marketing-web.PNG)
+![Online Reputation Management.](./images/Online-reputation-management-web.PNG)
+
+** If you click "Social Media Marketing" Navigation Button will lead you to this 
+page
+
+![Social Media Marketing](./images/social-media-marketing-web.PNG)
 
 ** The whole page will be look like this if you keep scrolling around
 ![Whole page of Horiseon Social Solution Services](./images/webpage.PNG)
 
 
+
 ---
-## Contributor
+## Contributors
 
 - Tirta Styadi <tirta.setiady@yahoo.com>
 
